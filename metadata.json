@@ -1,0 +1,6 @@
+{
+  "name": "Akira AI",
+  "description": "Voice-first, witty, and emotionally responsive Gemini-powered AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
